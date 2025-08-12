@@ -1,3 +1,6 @@
+This is the winning repository of FLIQ 2025 : ART(RANDOMNESS)
+
+
 Library Credit : https://github.com/qiskit-community/QuantumBlur
 
 If animation doesn't work ,
